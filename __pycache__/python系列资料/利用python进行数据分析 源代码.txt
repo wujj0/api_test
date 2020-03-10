@@ -1,0 +1,2 @@
+可以通过本书的GitHub仓库获取本书每一章中的数据文件和相关材料。GitHub仓库地址：http://github.com/wesm/pydata-book。
+本书的目的在于帮助你完成工作
